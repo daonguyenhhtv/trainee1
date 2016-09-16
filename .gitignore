@@ -1,0 +1,10 @@
+/*
+!plugins/
+!themes/
+!/.gitignore
+
+plugins/*
+
+themes/*
+!themes/cactus/
+!themes/cactus-child/
